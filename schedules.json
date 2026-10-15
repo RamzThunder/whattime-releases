@@ -64,6 +64,201 @@
               "no_countdown": false
             }
           ]
+        },
+        {
+          "date": "2026-10-27",
+          "title": "3학년 기말고사 시정",
+          "periods": [
+            {
+              "name": "인원점검, 휴대폰수거 유의사항 안내, 자율학습 및 주변정리",
+              "start": "08:20",
+              "end": "08:35",
+              "no_countdown": false
+            },
+            {
+              "name": "고사실로 이동 이동반 응시 학생",
+              "start": "08:35",
+              "end": "08:45",
+              "no_countdown": false
+            },
+            {
+              "name": "1교시(역사)",
+              "start": "09:00",
+              "end": "09:45",
+              "no_countdown": false
+            },
+            {
+              "name": "2교시(과학)",
+              "start": "10:00",
+              "end": "10:45",
+              "no_countdown": false
+            },
+            {
+              "name": "3교시(영어)",
+              "start": "11:00",
+              "end": "11:45",
+              "no_countdown": false
+            },
+            {
+              "name": "4교시",
+              "start": "11:55",
+              "end": "12:35",
+              "no_countdown": false
+            },
+            {
+              "name": "점심시간 (2학년, 1학년)",
+              "start": "12:35",
+              "end": "13:25",
+              "no_countdown": false
+            },
+            {
+              "name": "5교시",
+              "start": "13:25",
+              "end": "14:05",
+              "no_countdown": false
+            },
+            {
+              "name": "6교시",
+              "start": "14:15",
+              "end": "14:55",
+              "no_countdown": false
+            },
+            {
+              "name": "7교시",
+              "start": "15:05",
+              "end": "15:45",
+              "no_countdown": false
+            }
+          ],
+          "preserve_first_row": true
+        },
+        {
+          "date": "2026-10-28",
+          "title": "3학년 기말고사 시정",
+          "periods": [
+            {
+              "name": "인원점검, 휴대폰수거 유의사항 안내, 자율학습 및 주변정리",
+              "start": "08:20",
+              "end": "08:35",
+              "no_countdown": false
+            },
+            {
+              "name": "고사실로 이동 이동반 응시 학생",
+              "start": "08:35",
+              "end": "08:45",
+              "no_countdown": false
+            },
+            {
+              "name": "1교시(기술가정)",
+              "start": "09:00",
+              "end": "09:45",
+              "no_countdown": false
+            },
+            {
+              "name": "2교시 (국어)",
+              "start": "10:00",
+              "end": "10:45",
+              "no_countdown": false
+            },
+            {
+              "name": "3교시 (수학)",
+              "start": "11:00",
+              "end": "11:45",
+              "no_countdown": false
+            },
+            {
+              "name": "4교시",
+              "start": "11:55",
+              "end": "12:35",
+              "no_countdown": false
+            },
+            {
+              "name": "점심시간 (2학년, 1학년)",
+              "start": "12:35",
+              "end": "13:25",
+              "no_countdown": false
+            },
+            {
+              "name": "5교시",
+              "start": "13:25",
+              "end": "14:05",
+              "no_countdown": false
+            },
+            {
+              "name": "6교시",
+              "start": "14:15",
+              "end": "14:55",
+              "no_countdown": false
+            }
+          ],
+          "preserve_first_row": true
+        },
+        {
+          "date": "2026-10-29",
+          "title": "3학년 기말고사 시정",
+          "periods": [
+            {
+              "name": "인원점검, 휴대폰수거 유의사항 안내, 자율학습 및 주변정리",
+              "start": "08:20",
+              "end": "08:35",
+              "no_countdown": false
+            },
+            {
+              "name": "고사실로 이동 이동반 응시 학생",
+              "start": "08:35",
+              "end": "08:45",
+              "no_countdown": false
+            },
+            {
+              "name": "1교시(생활중국어)",
+              "start": "09:00",
+              "end": "09:45",
+              "no_countdown": false
+            },
+            {
+              "name": "2교시(사회)",
+              "start": "10:00",
+              "end": "10:45",
+              "no_countdown": false
+            },
+            {
+              "name": "3교시",
+              "start": "10:55",
+              "end": "11:40",
+              "no_countdown": false
+            },
+            {
+              "name": "4교시",
+              "start": "11:50",
+              "end": "12:30",
+              "no_countdown": false
+            },
+            {
+              "name": "점심시간",
+              "start": "12:30",
+              "end": "13:20",
+              "no_countdown": false
+            },
+            {
+              "name": "5교시",
+              "start": "13:20",
+              "end": "14:00",
+              "no_countdown": false
+            },
+            {
+              "name": "6교시",
+              "start": "14:10",
+              "end": "14:50",
+              "no_countdown": false
+            },
+            {
+              "name": "7교시",
+              "start": "15:00",
+              "end": "15:40",
+              "no_countdown": false
+            }
+          ],
+          "preserve_first_row": true
         }
       ]
     }
