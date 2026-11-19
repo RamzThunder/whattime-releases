@@ -259,6 +259,126 @@
             }
           ],
           "preserve_first_row": true
+        },
+        {
+          "date": "2026-11-19",
+          "title": "대학수학능력시험",
+          "periods": [
+            {
+              "name": "아침활동 및 학급조회",
+              "start": "08:20",
+              "end": "09:55",
+              "no_countdown": true,
+              "id": "row-597dffa0-b993-4f6f-ad12-48aa91e03c84",
+              "lesson_period": 0,
+              "grades": [
+                1,
+                2,
+                3
+              ]
+            },
+            {
+              "name": "1교시",
+              "start": "10:00",
+              "end": "10:30",
+              "no_countdown": false,
+              "id": "row-665f039b-c9f2-4254-848b-f313e1f6b409",
+              "lesson_period": 1,
+              "grades": [
+                1,
+                2,
+                3
+              ]
+            },
+            {
+              "name": "2교시",
+              "start": "10:40",
+              "end": "11:10",
+              "no_countdown": false,
+              "id": "row-f7514344-b43c-4dfc-97de-80d07364daf3",
+              "lesson_period": 2,
+              "grades": [
+                1,
+                2,
+                3
+              ]
+            },
+            {
+              "name": "3교시",
+              "start": "11:20",
+              "end": "11:50",
+              "no_countdown": false,
+              "id": "row-4e19ae64-7736-46f3-9e06-830297687e2e",
+              "lesson_period": 3,
+              "grades": [
+                1,
+                2,
+                3
+              ]
+            },
+            {
+              "name": "4교시",
+              "start": "12:00",
+              "end": "12:30",
+              "no_countdown": false,
+              "id": "row-df43ad29-41ea-4663-9997-760c28b134a8",
+              "lesson_period": 4,
+              "grades": [
+                1,
+                2,
+                3
+              ]
+            },
+            {
+              "name": "점심",
+              "start": "12:30",
+              "end": "13:20",
+              "no_countdown": false,
+              "id": "row-229048c4-dd96-44a2-8f58-aeef3409df23",
+              "lesson_period": 5,
+              "grades": [
+                1
+              ]
+            },
+            {
+              "name": "5교시 (1학년 점심)",
+              "start": "13:20",
+              "end": "13:50",
+              "no_countdown": false,
+              "id": "row-9dba4df8-6322-4bc9-9e33-056156e50e2b",
+              "lesson_period": 5,
+              "grades": [
+                2,
+                3
+              ]
+            },
+            {
+              "name": "6교시",
+              "start": "14:00",
+              "end": "14:30",
+              "no_countdown": false,
+              "id": "row-3182c5ca-af50-461c-83f2-5cf6d146e956",
+              "lesson_period": 6,
+              "grades": [
+                1,
+                2,
+                3
+              ]
+            },
+            {
+              "name": "7교시",
+              "start": "14:40",
+              "end": "15:10",
+              "no_countdown": false,
+              "id": "row-df29a6ed-fce1-4b97-bfa4-1d70f5277c33",
+              "lesson_period": 7,
+              "grades": [
+                1,
+                2,
+                3
+              ]
+            }
+          ]
         }
       ]
     }
